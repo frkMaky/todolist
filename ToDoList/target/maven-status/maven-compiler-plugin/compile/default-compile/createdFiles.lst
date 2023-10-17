@@ -1,0 +1,4 @@
+web/ServletControlador.class
+datos/TareaDao.class
+dominio/Tarea.class
+datos/Conexion.class
